@@ -1,13 +1,3 @@
-title: Resume Analyser
-emoji: 🚀  # Choose an emoji for your Space
-colorFrom: blue  # Choose a starting gradient color
-colorTo: green  # Choose an ending gradient color
-sdk: streamlit
-sdk_version: "1.43.0"  # Replace with the appropriate version
-app_file: app.py
-pinned: false
-
-
 # Resume ATS Scoring Application
 
 An advanced NLP-based Resume ATS (Applicant Tracking System) scoring application built with Streamlit. This application helps users evaluate and improve their resumes for specific job roles.
