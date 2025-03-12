@@ -72,4 +72,4 @@ An advanced NLP-based Resume ATS (Applicant Tracking System) scoring application
 
 ## License
 
-MIT
+Apache-2.0 license
